@@ -2,7 +2,7 @@ function valida(f) {
 	  var ok = true;
 	  var msg = "¡Respuesta incorrecta!";
 		
-	  if(document.getElementById("respuesta1").value == "PEPO")
+	  if(document.getElementById("respuesta1").value == "3169#")
 	  {
 		ok = true;
 	  }else{
